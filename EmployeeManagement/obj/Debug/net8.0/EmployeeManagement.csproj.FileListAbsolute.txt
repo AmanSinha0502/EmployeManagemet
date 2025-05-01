@@ -173,3 +173,4 @@ C:\Users\samar\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\net8
 C:\Users\samar\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
 C:\Users\samar\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
 C:\Users\samar\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\samar\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.sourcelink.json

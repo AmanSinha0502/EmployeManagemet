@@ -1,10 +1,12 @@
 ﻿using Dapper;
-using DapperMvcDemo.Models;
-using DapperMvcDemo.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 using System.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using EmployeeManagement.Models.Entities;
+using DapperMvcDemo.Models;
+using DapperMvcDemo.Models.Entities;
+using EmployeeManagement.Models;
+using EmployeeManagement.Models.Dtos;
 
 namespace EmployeeManagement.Controllers
 {
@@ -19,20 +21,42 @@ namespace EmployeeManagement.Controllers
             connectionString = configuration.GetConnectionString("DefaultConnection");
         }
 
-        // Get all persons
+        // Get all persons with department names
         [HttpGet]
-        public IActionResult GetAllPersons()
+        public IActionResult GetAll()
         {
             using (var connection = new SqlConnection(connectionString))
             {
-                var persons = connection.Query<Person>("SELECT * FROM person").ToList();
-                return Ok(persons);
+                var query = @"
+            SELECT p.name, p.email, p.address, d.deptname AS DeptName
+            FROM person p
+            INNER JOIN department d ON p.deptid = d.deptid";
+
+                try
+                {
+                    var persons = connection.Query<PersonWithDeptDto>(query).ToList();
+
+                    // Debugging: Print the result to see if it is fetching data
+                    Console.WriteLine($"Fetched {persons.Count} persons.");
+
+                    if (!persons.Any())
+                    {
+                        return NotFound("No persons found.");
+                    }
+
+                    return Ok(persons);
+                }
+                catch (Exception ex)
+                {
+                    // Log the error
+                    return BadRequest($"Error fetching data: {ex.Message}");
+                }
             }
         }
 
+
         // Get person by ID
-        [HttpGet]
-        [Route("{id:int}")]
+        [HttpGet("{id:int}")]
         public IActionResult GetPersonById(int id)
         {
             using (var connection = new SqlConnection(connectionString))
@@ -70,8 +94,7 @@ namespace EmployeeManagement.Controllers
         }
 
         // Update person by ID
-        [HttpPut]
-        [Route("{id:int}")]
+        [HttpPut("{id:int}")]
         public IActionResult UpdatePerson(int id, UpdatePersonDto updatePersonDto)
         {
             using (var connection = new SqlConnection(connectionString))
@@ -95,8 +118,7 @@ namespace EmployeeManagement.Controllers
         }
 
         // Delete person by ID
-        [HttpDelete]
-        [Route("{id:int}")]
+        [HttpDelete("{id:int}")]
         public IActionResult DeletePerson(int id)
         {
             using (var connection = new SqlConnection(connectionString))

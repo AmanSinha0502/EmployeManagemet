@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\employeemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\models\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\models\\personwithdeptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\personwithdeptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\models\\addpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\addpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\models\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +33,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\samar\\source\\repos\\employeemanagement\\employeemanagement\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D860E38-E667-468A-BF91-47B688F64E0D}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -52,14 +64,38 @@
               "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
               "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
               "RelativeToolTip": "EmployeeManagement\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-21T14:15:15.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T19:03:11.54Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EmployeeManagement.http",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.http",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeManagement.http",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.http",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeManagement.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-27T19:03:10.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:16:20.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UpdatePersonDto.cs",
               "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Models\\UpdatePersonDto.cs",
               "RelativeDocumentMoniker": "EmployeeManagement\\Models\\UpdatePersonDto.cs",
@@ -67,47 +103,31 @@
               "RelativeToolTip": "EmployeeManagement\\Models\\UpdatePersonDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T14:14:35.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T03:16:19.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "PersonWithDeptDto.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Models\\PersonWithDeptDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\PersonWithDeptDto.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Models\\PersonWithDeptDto.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\PersonWithDeptDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:16:18.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AddPersonDto.cs",
               "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Models\\AddPersonDto.cs",
               "RelativeDocumentMoniker": "EmployeeManagement\\Models\\AddPersonDto.cs",
               "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Models\\AddPersonDto.cs",
               "RelativeToolTip": "EmployeeManagement\\Models\\AddPersonDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T14:12:50.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "EmployeeManagement\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T14:13:17.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Models\\Entities\\Department.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Entities\\Department.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Models\\Entities\\Department.cs",
-              "RelativeToolTip": "EmployeeManagement\\Models\\Entities\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T14:10:20.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T03:16:17.506Z"
             },
             {
               "$type": "Document",
@@ -119,21 +139,7 @@
               "RelativeToolTip": "EmployeeManagement\\Models\\Entities\\Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T14:06:30.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "EmployeeManagement\\Controllers\\PersonController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T10:27:14.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T03:16:16.598Z"
             },
             {
               "$type": "Document",
@@ -143,10 +149,45 @@
               "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Entities\\Employee.cs",
               "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Models\\Entities\\Employee.cs",
               "RelativeToolTip": "EmployeeManagement\\Models\\Entities\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T14:07:03.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T03:16:15.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Models\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Models\\Entities\\Department.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:16:14.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:16:08.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\samar\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwEwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:16:06.901Z"
             }
           ]
         }
